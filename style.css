@@ -1,0 +1,13 @@
+body {
+    background-color: cyan;
+}
+
+p {
+    color: red;
+}
+
+.tabel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
